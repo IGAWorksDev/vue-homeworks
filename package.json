@@ -1,0 +1,28 @@
+{
+  "name": "vue-homeworks",
+  "version": "0.0.1",
+  "description": "Homeworks framework for vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u001b[2~https://github.com/IGAWorksDEv\u001b[e\u001b[F/vue-homeworks"
+  },
+  "keywords": [
+    "vuejs",
+    "vuejs2",
+    "framework",
+    "frontend",
+    "homeworks"
+  ],
+  "author": "Kenneth Ceyer <kennnethan@nhpcw.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "homeworks": "^1.0.39"
+  }
+}
